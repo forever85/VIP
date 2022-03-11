@@ -1,4 +1,4 @@
-# Statement
+# Statement faker for JD of Qing Long
 
 ***This repository is for personal study and research purposes only.***  
 **Please DO NOT USE IT FOR COMMERCIAL PURPOSES.**  
